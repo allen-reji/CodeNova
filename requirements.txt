@@ -1,0 +1,10 @@
+streamlit==1.30.0
+gtts==2.4.0
+requests==2.31.0
+python-docx==0.8.11
+reportlab==4.0.7
+langdetect==1.0.9
+google-cloud-texttospeech==2.14.1
+google-api-python-client==2.126.0
+google-auth==2.29.0
+google-generativeai
