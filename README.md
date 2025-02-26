@@ -27,7 +27,7 @@ CodeNova leverages IBM Granite AI models for core functionalities, ensuring high
 ## Installation and Setup (For running it locally)
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Nidhish-Balasubramanya/CodeNova.git
+   git clone https://github.com/allen-reji/CodeNova.git
    cd CodeNova
    ```
 2. Create a virtual environment and activate it:
